@@ -1,0 +1,13 @@
+{
+  "mail": {
+    "login": "admin",
+    "password": "adminadmin",
+    "display_name": "Cryp Alerts",
+    "server": "smtp.gmail.com"
+  },
+  "twilio": {
+    "account_sid": "admin",
+    "auth_token": "admin",
+    "number": "admin"
+  }
+}

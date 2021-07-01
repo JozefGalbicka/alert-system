@@ -1,0 +1,6 @@
+.idea/
+venv/
+alert_system/config/test-config.json
+alert_system/config/test-subscribers.txt
+*.swp
+alert_system/log/*

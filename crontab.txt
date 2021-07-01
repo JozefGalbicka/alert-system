@@ -1,0 +1,2 @@
+* * * * * /usr/local/bin/python3 /app/cryp_alerts/script.py >> /var/log/cron.log 2>&1
+
